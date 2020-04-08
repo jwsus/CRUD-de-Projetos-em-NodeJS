@@ -1,0 +1,15 @@
+{
+  "name": "CRUD-de-Projetos-em-NodeJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jwsus/CRUD-de-Projetos-em-NodeJS.git",
+  "author": "Jesus <michel.js66@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
